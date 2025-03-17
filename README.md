@@ -6,3 +6,5 @@ DOMAIN : .Net web Development
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTHOSH
 
+OUTPUT
+![Image](https://github.com/user-attachments/assets/9b607c75-0dba-46c4-88b8-0061285452a8)
